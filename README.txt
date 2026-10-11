@@ -7,7 +7,7 @@ NeuralForge AI is a containerized Retrieval-Augmented Generation (RAG) system bu
 
 ### 📽️ Project Deliverables
 - 📄 **Presentation Slides:** [NeuralForgeAI-Presentation.pdf](./NeuralForgeAI-Presentation.pdf)
-- 🎥 **Video Demo Link:** *[Yahan apna Unlisted YouTube / Google Drive Video Link Paste Karein]*
+- 🎥 **Video Demo Link:** *[https://youtu.be/TaUcFnGI3cU?si=ggTa9Lh_FOy9SPJ-
 
 ---
 
